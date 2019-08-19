@@ -1,0 +1,7 @@
+/home/test/pythonScripts/Downloads/ACE3_703/Foglight-5_9_3-install_linux-x86_64.bin
+/home/test/pythonScripts/Downloads/ACE3_703/fms_silent_install.properties
+/home/test/testInstallFMS/Foglight
+/home/test/pythonScripts/Downloads/ACE3_703/Foglight.license
+master
+10.30.170.105
+y
